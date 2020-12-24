@@ -1,11 +1,7 @@
-# Huawei Cloud DIS SDK for Java
+# Flexible Engine DIS SDK for Java
 
-The Huawei Cloud DIS Sdk enables Java developers to easily work with [Huawei Cloud DIS](https://www.huaweicloud.com/en-us/product/dis.html). You can get started in minutes using **Maven**.
+The Flexible Engine DIS Sdk enables Java developers to easily work with [Flexible Engine DIS](https://docs.prod-cloud-ocb.orange-business.com/en-us/dis/index.html). You can get started in minutes using **Maven**.
 
-Quick Links:
-- [SDK Homepage](https://developer.huaweicloud.com/sdk?all)
-- issue
-- [DIS Homepage](https://www.huaweicloud.com/en-us/product/dis.html), or Chinese language site [DIS](https://www.huaweicloud.com/product/dis.html)
 
 ## Getting Started
 ### Requirements
